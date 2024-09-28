@@ -1,0 +1,366 @@
+{
+    "case1":
+    {
+        "input": "What are the detailed requirements of the General Product Safety Directive of 2001 (2001/95/EC) updated on 30 March 2023 for the Food contact materials as glass packaging (i.e, jars, bottles)?",
+        "expected_output": "The General Product Safety Directive of 2001 (2001/95/EC) was updated with the Regulation (EU) 2023/988 on General Product Safety, which was adopted to modernize the EU's product safety framework and address challenges posed by the digitalization of our economies. This new regulation, effective from December 13, 2024, applies to all non-food products, including glass packaging for food contact materials such as jars and bottles, and aims to ensure the health and safety of consumers and the smooth functioning of the internal market\n        Key updates relevant to food contact materials, including glass packaging, under the new regulation include:\n        1. Safety Obligations for Businesses: Businesses must ensure all consumer products, including those linked to new technologies, are safe. This involves specific product safety obligations for economic operators and providers of online marketplaces . 2. Reinforced Product Traceability: The regulation introduces reinforced traceability requirements for products. This is particularly important for ensuring the safety of food contact materials across all sales channels, including online sales \n        3. Addressing New Technology Challenges: The regulation addresses hazards linked to new technologies, which could include aspects related to the materials and\n        manufacturing processes of glass packaging. This includes cybersecurity threats with safety implications .\n        4. Market Surveillance and Enforcement: There are improved mechanisms for the enforcement of product safety rules and market surveillance. This includes a systematic use of the Safety Business Gateway for accident reporting, which\n        enhances the traceability and safety of products .\n        5. Product Recalls: The regulation aims to make product recalls more effective, with requirements for raising consumer awareness and ensuring the safety of products in the market, which would include unsafe glass packaging materials .\n        6. Food Imitating Products: Although primarily focused on non-food products, the regulation repeals the Food Imitating Product Directive and integrates safety assessment aspects related to food-imitating products, which could indirectly affect glass packaging designs that might resen.. food items ."
+    }
+    ,
+    "case2":
+    {
+        "input": "What are the specific requirements in Italy as Food contact material regulations?",
+        "expected_output": "In Italy, food contact materials (FCMs) are regulated under a comprehensive framework that integrates both European Union (EU) standards and specific national requirements. Here's a summary of the key regulations and requirements:\n1. EU Framework and Italian Decrees: Italy, like other EU member states, follows the EU's harmonized legal framework for FCMs, notably Regulation (EC) No 1935/2004, which sets out the general principles of safety and inertness for FCMs. However, Italy has also established its own specific requirements through national decrees, such as the Decree of 21 March 1973 on Hygienic Requirements for Packaging, Containers, and Utensils Intended To Be Used in Direct Contact with Food and Substances for Personal Use, and its amendments, including the Decree of the Minister of Health No. 208 of November 25, 2022, which revises requirements for food contact stainless steels (')(').\n2. Positive Lists and Specific Substances: Italy's regulations include 'positive lists' of materials and substances that are permitted for use in food contact applications. The recent amendment to the food contact stainless steel regulations, for example, added stainless steel with the numerical designation 1.4062 to the positive list, along with specifications for added elements permitted in food contact stainless steels not on the positive list, provided these are used exclusively for manufacturing kitchen and tableware intended for repeated short-duration use at hot or ambient temperatures (').\n3. Member State Legislation and EU Directives: Italy, alongside other EU member states, may complement EU regulations with its own national legislation in areas where the EU has not fully harmonized regulations. This includes materials like paper, board, glass, and metals, which may not have specific EU-level requirements. The Council of Europe has developed resolutions to guide the use of such materials in the absence of EU or national legislation, which, while not legally binding, are widely accepted as guidance documents (').\n4. Compliance and Testing: To ensure compliance with these regulations, manufacturers and suppliers of FCMs in Italy must navigate both the EU framework and national requirements. This includes adhering to positive lists, specific substance regulations, and undergoing appropriate testing and certification processes to verify that products meet safety and inertness standards (').\n"
+    }
+    ,
+    "case3":
+    {
+        "input": "Give me some information about Belgium regulates about varnishes and coatings. In Turkish Language",
+        "expected_output": "Belgium, gıda ile temas eden vernikler ve kaplamalar konusunda bir Kraliyet Kararnamesi yayınlamıştır. Bu yeni yasa 1 Ocak 2017'de yürürlüğe girmiştir. Ayrıca, bu Kararname'nin yürürlüğe girdiği tarih olan 1 Ocak 2017'den önce alınan göç testlerinden memnun olunmadıkça, bu Kararname'nin 8. Maddesinde belirtilen özel göçmenlik için doğrulama uygunluğu 1 Ocak 2018'de sağlanmalıdır.\nBu Kraliyet Kararnamesi, gıda ile temas eden vernik ve kaplamalarla ilgili olup, Ekim 2016'da Belçika Federal Halk Hizmetleri (FPS) Sağlık, Gıda Zinciri Güvenliği ve Çevre tarafından yayınlanmıştır.\nReferanslar:\nSafeguards 18516-Belgium Regulates Food-Contact Varnishes and Coatings - Notified at 2016-12-07 in SGS Website.\n"
+    }
+    ,
+    "case4":
+    {
+        "input": "Give me the Indian regulation about food contact materials, especially concerned for glass packaging. In Turkish Language",
+        "expected_output": "India, gıda ile temas eden malzemelerle ilgili düzenlemeleri artırmayı önermiştir. Ayrıca 2023 yılında, Dünya Ticaret Örgütü (WTO), Hindistan Ticaret ve Sanayi Bakanlığı'nın Endüstriyi Teşvik ve İç Ticaret Departmanı'ndan bir taslak emirle, gıda teması olan ürün kategorilerinden beşi için beş standartı zorunlu kılma niyetini duyurdu. Taslak emre göre, malların belirli Hint Standartlarına uygun olması ve 2018'de Hint Standartları Bürosu'nun (Conformity Assessment) Yönetmelikleri'nin II. Programı kapsamında Büro'dan lisans alarak Standart İşareti taşıması gerekmektedir.\nReferanslar:\nSafeguards 13721-India Proposes to Strengthen Food-Contact Regulations - Notified at 2021-10-05 in SGS Website.\nSafeguards 6023-India Proposes to Mandate Standards for Several Categories of Food-Contact Products - Notified at 2023-05-16 in SGS Website.\n"
+    }
+    ,
+    "case5":
+    {
+        "input": "What is the number of minimum particles that is accepted in 50 mm x 50 mm in Mexican standards of glass in building regulations?",
+        "expected_output": "According to the Mexican Official Standard PROY-NOM-146-SCFI-2015, the minimum number of particles in a 50 mm x 50 mm square varies depending on the nominal thickness of the glass. For nominal thicknesses up to 3 mm, 4 mm, and 5 mm, the minimum number of particles is 40.\nReference:\nProyecto de Norma Oficial Mexicana PROY-NOM-146-SCFI-2015, Productos de vidrio - Vidrio de seguridad usado en la construcción - Especificaciones y métodos de prueba (Draft Mexican Official Standard PROY-NOM-146-SCFI-2015: Glass products - Safety glass used in construction – Specifications and test methods) - Notified at 2016-04-21 in epingalert Website.\n"
+    }
+    ,
+    "case6":
+    {
+        "input": "TIS 965 - 2560 (Thai Industrial Standard for Tempered Glass), which type of glass is in the scope of this standard? Could you please indicate the color, type etc.?",
+        "expected_output": "The Thai Industrial Standard for Tempered Glass (TIS 965-25xx) covers colorless, colored, and decorative tempered glass.\nReference:\nDraft Thai Industrial Standard for Tempered Glass (TIS 965-25xx) - Notified at 2016-09-19 in epingalert Website."
+    }
+    ,
+    "case7":
+    {
+        "input": "What are the required tests of safety related to human impact for glass in buildings?",
+        "expected_output": "The safety related to human impact for glass in buildings is primarily assessed based on criteria outlined in DRS 397-5: 2023, Use of glass in building — Part 5: Safety related to human impact. This standard outlines the requirements for the behavior of glass when subjected to various kinds of human impact, precautions against risk of fall and falling glass.\nIt's important to note that the standard does not assume that the glass used in accordance with this standard will not break under all human impact conditions. Instead, the goal is to ensure that it will not break under most likely forms of human impact and if it does break, the likelihood of cutting or piercing injuries should be minimized. This is achieved either through the protection given to the glass, or by the limited size or increased thickness, or by the fracture characteristics of the glass.\nIn addition, safety and security glazing materials for buildings undergo a safety performance test under human impact according to the standard BOS 161-1:2018 2nd Ed. Safety and security glazing materials for buildings — Part 1: Safety performance of glazing materials under human impact. This standard covers the requirements for the performance of safety glazing materials in buildings with regard to injuries (cutting or piercing) sustained on human impact.\nReference:\nDRS 397-5: 2023, Use of glass in building — Part 5: Safety related to human impact - Notified at 2023-01-23 in ePingAlert Website.\nBOS 161-1:2018 2nd Ed. Safety and security glazing materials for buildings — Part 1: Safety performance of glazing materials under human impact - Notified at 2020-10-28 in ePingAlert Website."
+    }
+    ,
+    "case8":
+    {
+        "input": "What is the details of Tanzania sadium carbonate specification?",
+        "expected_output": "The Tanzania Standard for Sodium Carbonate (Soda Ash) is titled 'CDC 7 (207) CD 2 Sodium carbonate (Soda ash) - Specification'. This standard prescribes the requirements, sampling, and test methods for sodium carbonate. However, it does not cover Sodium Carbonate for food application.\nThere are three grades of the material, namely, dense, medium, and light, depending on the bulk density. All grades have the same chemical composition.\nThe draft of this standard was first announced on December 14, 2020, and entered into force on April 1, 2022, as the Tanzania Standard, TZS 2941:2021 Sodium carbonate (Soda ash) – Specification.\nReference:\n• CDC 7 (207) CD 2 Sodium carbonate (Soda ash) – Specification - Notified at 2020-12-14 in Epingalert Website.\n• CDC 7 (207) CD 2 Sodium carbonate (Soda ash) – Specification - Notified at 2023-01-05 in Epingalert Website."
+    }    
+    ,
+    "case9":
+    {
+        "input": "What is the sodium carbonate limit at CDC 7 (207)CD specification?",
+        "expected_output": "The CDC 7 (207) CD 2 Sodium carbonate (Soda ash) – Specification outlines the following limits for Sodium Carbonate:\\n1.\\tTotal alkalinity (as Na2CO3), percent by mass, Min: 98.5\\n2.\\tMatter insoluble in water, percent by mass, Max: 0.15\\n3.\\tVolatile matter content, percent by mass, Max: 2\\n4.\\tSulphate (as Na2SO4), percent by mass, Max: 0.081\\n5.\\tChloride (as NaCl), percent by mass, Max: 1.02\\n6.\\tIron (as Fe2O3), percent by mass, Max: 0.007\\nPlease note that when Sodium Carbonate is produced by the modified Solvay process, the sulphate content shall be 0.5 percent, Max. For the sodium dichromate industry, chlorides (as NaCl), percent by mass, Max, shall be 0.4.\\nReference:\\n•\\tCDC 7 (207) CD 2 Sodium carbonate (Soda ash) – Specification - Notified at 2020-12-14 in Epingalert Website.\\n•\\tCDC 7 (207) CD 2 Sodium carbonate (Soda ash) – Specification - Notified at 2023-01-05 in Epingalert Website.\\n"   
+    }
+    ,
+    "case10":
+    {
+        "input": "What is the latest revised regulation on recycled plastic?",
+        "expected_output": "The latest revised regulation on recycled plastic is the Draft Commission Regulation amending Regulation (EU) No 10/2011 on plastic materials and articles intended to come into contact with food. This regulation also amends Regulation (EC) No 2023/2006 on good manufacturing practice for materials and articles intended to come into contact with food. The amendments regard recycled plastic and other matters related to quality control and manufacturing of plastic materials and articles intended to come into contact with food.\nReference:\n• Draft Commission Regulation amending Regulation (EU) No 10/2011 on plastic materials and articles intended to come into contact with food and amending Regulation (EC) No 2023/2006 on good manufacturing practice for materials and articles intended to come into contact with food as regards recycled plastic and other matters related to quality control and manufacturing of plastic materials and articles intended to come into contact with food (Text with EEA relevance) - Notified at 2024-03-25 in Epingalert Website."
+    }    
+    ,
+    "case11":
+    {
+        "input": "When is required to submit genotoxicity tests for Recycled plastics?",
+        "expected_output": "Genotoxicity tests are required for the safety assessment of a substance used in the manufacturing of recycled plastic food contact materials when the substance exceeds a migration level of 0.05 mg/kg into food.\nReference:\n• Draft Commission Regulation amending Regulation (EU) No 10/2011 on plastic materials and articles intended to come into contact with food and amending Regulation (EC) No 2023/2006 on good manufacturing practice for materials and articles intended to come into contact with food as regards recycled plastic and other matters related to quality control and manufacturing of plastic materials and articles intended to come into contact with food (Text with EEA relevance) - Notified at 2024-03-25 in Epingalert Website."
+    }
+    ,
+    "case51":
+    {
+        "input": "What is the prohibition of PFHxA in food contact materials?",
+        "expected_output": "The prohibition of PFHxA in food contact materials is outlined in the Draft Commission Regulation amending Annex XVII to Regulation (EC) No 1907/2006. This regulation proposes to restrict the manufacture, use and placing on the market of PFHxA, its salts and PFHxA-related substances on their own. It also aims to restrict their use in the production of and placing on the market in another substance, as a constituent, in a mixture or in an article. Reference: Draft Commission Regulation amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards undecafluorohexanoic acid (PFHxA), its salts and PFHxA-related substances - Notified at 2023-06-19 in Epingalert Website."
+    }
+    ,
+    "case101": {  
+        "input": "What is the main focus of the document titled 'Amendment of the Approval Guideline of Sanitizing and Disinfectant Product for Food Contact Materials'?",  
+        "expected_output": "The main focus of the document is on the approval guidelines for sanitizing and disinfectant products used in food contact materials, aiming to ensure food safety, packaging integrity, human health, and control of contaminants."  
+    },  
+    "case102": {  
+        "input": "What new polymers are included in the establishment of standards and specifications for food contact materials?",  
+        "expected_output": "The new polymers included are Poly(cyclohexane-1,4-dimethylene terephthalate) (PCT) and Ethylenevinylalcohol (EVOH)."  
+    },  
+    "case103": {  
+        "input": "What is the proposed limit for residual toluene in food contact materials?",  
+        "expected_output": "The residual toluene should not exceed 2mg/m2 in food contact materials."  
+    },  
+    "case104": {  
+        "input": "What is the main focus of the proposed amendment mentioned in the document?",  
+        "expected_output": "The main focus of the proposed amendment is the approval guideline for sanitizing and disinfectant products intended for food contact materials."  
+    },  
+    "case105": {  
+        "input": "What new standards and specifications are being proposed for food contact materials?",  
+        "expected_output": "The proposed amendments include the establishment of standards and specifications for a new food contact material, Polyimide, as well as new migration compounds such as BADGE, BADGE·2HCl, BADGE·2H2O, BFDGE, BFDGE·2HCl, and BFDGE·2H2O."  
+    },  
+    "case106": {  
+        "input": "What is the main focus of the proposed regulations by the KFDA?",  
+        "expected_output": "The main focus of the proposed regulations by the KFDA is to establish testing costs for food, food additives, and food contact materials, including a substantial reduction of pesticide testing costs using multi-class multi-residue methods."  
+    },  
+    "case107": {  
+        "input": "What revisions has the KFDA proposed to the Standards and Specifications for Foods?",  
+        "expected_output": "The KFDA has proposed the establishment of standards and specifications for new food contact materials such as Polyetheretherketone (PEEK) and Polylactide (PLA), along with corrections of technical errors in the existing provisions."  
+    },  
+    "case108": {  
+        "input": "What substance is proposed to be prohibited for use in manufacturing food contact materials according to the document?",  
+        "expected_output": "DEHA (Di(2-ethylhexyl) adipate) is proposed to be prohibited for use in manufacturing food contact materials."  
+    },  
+    "case109": {  
+        "input": "What new material is being proposed for the standards and specifications for food contact materials?",  
+        "expected_output": "Polybutylenesuccinate-co-adipate (PBSA)"  
+    },  
+    "case110": {  
+        "input": "What is the main focus of the draft Commission Regulation SANCO/2006/1597?",  
+        "expected_output": "The main focus of the draft Commission Regulation SANCO/2006/1597 is to set out the basic rules of good manufacturing practice that must be applied in the manufacturing, storage, and transport of food contact materials and articles."  
+    },  
+    "case111": {  
+        "input": "What is the main objective of the proposed prohibition on the use of inked paper in Nepal?",  
+        "expected_output": "The main objective of the proposed prohibition on the use of inked paper in Nepal is to protect the health of consumers by controlling the quality and safety of food products and facilitating fair trade."  
+    },  
+    "case112": {  
+        "input": "What is the scope of the National Food Safety Standard: General safety requirements of food contact materials and articles?",  
+        "expected_output": "The standard specifies terms and definitions, basic requirements, principles of conformity, testing methods, traceability, and product information for food contact materials and articles. It applies to all types of food contact materials and articles."  
+    },  
+    "case113": {  
+        "input": "What are the main objectives of the Draft Commission Regulation amending Regulation (EU) No 10/2011 on plastic materials and articles intended to come into contact with food?",  
+        "expected_output": "The main objectives of the Draft Commission Regulation are to increase quality control under Regulation (EU) No 10/2011 on plastic food contact materials by ensuring alignment with Regulation (EU) 2022/1616 on recycled plastics and Regulation (EU) No 528/2012 on biocidal products, introducing purity requirements for substances obtained from waste and natural materials, and adapting migration testing of multi-layer materials and repeat testing. Additionally, it aims to add quality control rules to Regulation (EC) No 2023/2006 on good manufacturing practice."  
+    },  
+    "case114": {  
+        "input": "What does NORDOM No. 450 specify?",  
+        "expected_output": "NORDOM No. 450 specifies the classification, designation, and quality characteristics of glass containers for pharmaceutical use."  
+    },  
+    "case115": {  
+        "input": "What is the purpose of the Colombian Technical Standard 1117 for non-returnable glass containers?",  
+        "expected_output": "The purpose of Colombian Technical Standard 1117 (Non-Returnable Glass Containers for Food Products) is to establish the requirements to be met by, and the tests to be performed on glass containers designated as non-returnable and intended for food products for human consumption. It aims to give mandatory force to requirements in respect of critical defects, thermal shock resistance, and thickness."  
+    },  
+    "case116": {  
+        "input": "What are some of the Colombian Technical Standards mentioned in the draft resolution?",  
+        "expected_output": "The draft resolution mentions several Colombian Technical Standards including NTC 11 for metallic pipes, NTC 44 for asbestos-cement pipes for fluid conduction, NTC 244 for hydraulic brake fluids, NTC 268 for sanitary asbestos-cement pipes, NTC 307 and NTC 308 for electrical conductors, and NTC 309 for aluminum conductors reinforced with steel core. Other standards include NTC 360 and NTC 361 for aluminum wires and magnet wires respectively, as well as standards for PVC pipes (NTC 382), asbestos cement sewer pipes (NTC 384), reinforced concrete sewer pipes (NTC 401), steel wires for aluminum cables (NTC 461), welded carbon steel pipes (NTC 520), PVC and CPVC pipes for potable water (NTC 539), and solvent cement for PVC pipes (NTC 576)."  
+    },  
+    "case117": {  
+        "input": "What does the DEAS 987-1: 2019 standard specify?",  
+        "expected_output": "The DEAS 987-1: 2019 standard specifies the requirements, methods of sampling, and tests for glass bottles used for packaging carbonated and non-carbonated drinks. It does not cover glass containers used in the pharmaceutical industry."  
+    },  
+    "case118": {  
+        "input": "What does the DEAS 987-1:2019 standard specify?",  
+        "expected_output": "The DEAS 987-1:2019 standard specifies the requirements, methods of sampling, and test for glass bottles used for packaging carbonated and non-carbonated drinks. It does not cover glass containers used in the pharmaceutical industry."  
+    },  
+    "case119": {  
+        "input": "What are the objectives of the DEAS 987-2: 2021 standard for glass jars?",  
+        "expected_output": "The objectives of the DEAS 987-2: 2021 standard for glass jars include quality requirements (TBT), harmonization (TBT), prevention of deceptive practices and consumer protection (TBT), consumer information and labeling (TBT), and reducing trade barriers and facilitating trade (TBT)."  
+    },  
+    "case120": {  
+        "input": "What are the main objectives of the DEAS 987-2: 2021 standard for glass jars?",  
+        "expected_output": "The main objectives of the DEAS 987-2: 2021 standard for glass jars include prevention of deceptive practices and consumer protection, protection of human health or safety, ensuring quality requirements, harmonization, and providing consumer information and labeling."  
+    },  
+    "case121": {  
+        "input": "When did the DEAS 987-1: 2019 specification for glass containers become effective as a Tanzanian Standard?",  
+        "expected_output": "The DEAS 987-1: 2019 specification for glass containers became effective as a Tanzanian Standard on 01 April 2022."  
+    },  
+    "case122": {  
+        "input": "What types of materials and products are covered under the draft resolution making certain Colombian technical standards non-mandatory?",  
+        "expected_output": "The draft resolution covers various materials and products including metallic piping, asbestos-cement pipes for fluid conduction, automotive brake fluids, sanitary asbestos-cement pipes, copper conductors, aluminum conductors, steel-reinforced aluminum conductors, circular section aluminum wires for electrical use, magnet wires, PVC plastic pipes classified by pressure, asbestos-cement sewer pipes, reinforced concrete sewer pipes, steel wires for aluminum-reinforced cables, electric resistance welded carbon steel tubes for boilers and superheaters intended for high-tension services, and PVC and CPVC pipes for potable water."  
+    },  
+    "case123": {  
+        "input": "What changes has the Thai Industrial Standards Institute (TISI) proposed for clear float glass standards?",  
+        "expected_output": "The Thai Industrial Standards Institute (TISI) has proposed to withdraw TIS 880-2532 (1989), which is a mandatory standard, and replace it with TIS 880-2547(2004). The new standard covers only clear float glass, classifies float glass into general and specific grades, specifies sizes and tolerances (width, length, and thickness), prescribes permissible defects (such as bubbles, foreign material, concentration of point-shape defects, linear and zonal defects), and includes packaging, marking and labelling, sampling and criteria for conformity, and testing."  
+    },  
+    "case124": {  
+        "input": "What does the National Standard of the P.R.C. specify regarding heat soaked thermally tempered glass?",  
+        "expected_output": "The standard specifies the terms and definitions, technical requirements, test methods, inspection rules, marks, package, transportation, and storage of heat soaked thermally tempered glass."  
+    },  
+    "case125": {  
+        "input": "What are the key aspects covered by the National Standard of the P.R.C. for flat glass?",  
+        "expected_output": "The National Standard of the P.R.C. for flat glass specifies terms and definitions, classifications, requirements, test methods, inspection rules, marks, packaging, transportation, and storage."  
+    },  
+    "case126": {  
+        "input": "What are the mandatory requirements specified in the National Standard of the P.R.C. for Laminated Solar PV Glazing Materials in Building?",  
+        "expected_output": "The mandatory requirements specified in the National Standard of the P.R.C. for Laminated Solar PV Glazing Materials in Building include ultraviolet (UV) irradiation resistant performances, heat resistances, moisture resistances, falling ball impact peeling performance, and shot bag impact performance."  
+    },  
+    "case127": {  
+        "input": "What is the purpose of the Draft Philippine National Standard (DPNS) 2100:2013?",  
+        "expected_output": "The purpose of the Draft Philippine National Standard (DPNS) 2100:2013 is to specify the performance and evaluation criteria for preassembled permanently sealed insulating glass units with one or two airspaces, including those with capillary tubes intentionally left open. It aims to provide a basis for evaluating the durability of these units, focusing on frost/dew point, absence of fog after testing, and maintaining specified argon gas amounts. The standard seeks to protect human health or safety by ensuring the quality and durability of insulating glass units."  
+    },  
+    "case128": {  
+        "input": "What is the purpose of the proposed compulsory specification for safety glass and other safety glazing materials?",  
+        "expected_output": "The purpose of the proposed compulsory specification is to cover the requirements for safety glass and other safety glazing materials used in buildings and any other applications where breakage due to human contact may result in serious injuries. The specification aims to protect human health or safety."  
+    },  
+    "case129": {  
+        "input": "What are the key amendments introduced in the Lembaga Pembangunan Industri Pembinaan Malaysia (Amendment) Act 2011?",  
+        "expected_output": "The key amendments in the Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB) Act 2011 include the introduction of standards and codes of practice to regulate construction workmanship and materials. Specifically, it introduces a new Part VIIA - Standards and Codes of Practice in the Construction Industry, which includes Section 33C (Lembaga to certify construction materials), Section 33D (Dealing with non-certified construction materials), and Section 33E (Notice by the Lembaga for persons dealing with non-certified construction materials). Additionally, a new Fourth Schedule outlines standards for certification of construction material. These amendments enforce quality control through certification and prohibit dealing with non-certified materials, applicable to both local and imported materials."  
+    },  
+    "case130": {  
+        "input": "What are the key requirements stated in the draft decree for glass in buildings produced or imported into Indonesia?",  
+        "expected_output": "The draft decree states that all glass in buildings produced within the country or imported, distributed, and marketed in Indonesia must fulfill the SNI requirements. Producers must comply with these requirements and have a Product Certificate for Using SNI Mark. The product certificate must be issued by a Product Certification Body accredited by KAN and appointed by the Minister of Industry. The Directorate General of Manufacturing Based Industries, Ministry of Industry is responsible for implementing this decree and providing technical guidance, which includes procedures for Product Certification and SNI Marking. Products distributed domestically or imported must meet the requirements specified in SNI ISO 21690:2013, which covers terms and definitions, quality requirements, sampling, testing methods, testing acceptance, marking requirements, and packaging."  
+    },  
+    "case131": {  
+        "input": "What changes are being made to the existing Mandatory Standard SI 938 part 1 for flat glass panels for buildings?",  
+        "expected_output": "The existing Mandatory Standard, SI 938 part 1, dealing with flat glass panels for buildings shall be declared voluntary. This change is part of the cancellation of this standard and its replacement with SI 938 parts 2 and 3 series."  
+    },  
+    "case132": {  
+        "input": "What does the SLNS 13: 2000 standard specify regarding packaged water?",  
+        "expected_output": "The SLNS 13: 2000 standard specifies requirements for the purity, treatment, bacteriological acceptability, packaging, and labelling of spring waters, mineral waters, and purified waters that are prepackaged for sale and used as beverages or in foods. It does not apply to water distributed by public water supply systems, carbonated beverage soda water, or bottled water sold for purposes other than as a beverage."  
+    },  
+    "case133": {  
+        "input": "What does Ministerial Decree No. 241 of 2016 mandate?",  
+        "expected_output": "Ministerial Decree No. 241 of 2016 mandates the Egyptian Standard ES 353-2:2016, which pertains to glass in building, specifically basic soda lime silica glass."  
+    },  
+    "case134": {  
+        "input": "What is the purpose of the regulation regarding Tobacco Mild Green Mosaic Tobamovirus (TMGMV) mentioned in the document?",  
+        "expected_output": "The regulation establishes a temporary exemption from the requirement of a tolerance for residues of the tobacco mild green mosaic tobamovirus (TMGMV) on grass and grass hay when used as a bioherbicide against the weed tropical soda apple. This eliminates the need to establish a maximum permissible level for residues of TMGMV, with the exemption expiring on 30 June 2009."  
+    },  
+    "case135": {  
+        "input": "What is the purpose of the Andean Technical Regulation draft decision mentioned in the document?",  
+        "expected_output": "The purpose of the Andean Technical Regulation draft decision is to lay down the operating requirements for establishments engaged in the manufacture of domestic hygiene products and absorbent personal hygiene products, with objectives focused on the protection of human health or safety."  
+    },  
+    "case136": {  
+        "input": "What are the main areas covered by the Andean Technical Regulation for establishments engaged in the manufacture of domestic hygiene products and absorbent personal hygiene products?",  
+        "expected_output": "The Andean Technical Regulation covers requirements related to personnel, organization, sanitation and hygiene, buildings and installations, accessory equipment and utensils, maintenance and services, storage and distribution, handling of raw materials and inputs, production, packaging, quality assurance, documentation and archiving, library, complaints and claims, and causes for product withdrawal."  
+    },  
+    "case137": {  
+        "input": "What is the objective of the document dealing with portable soda acid extinguishers?",  
+        "expected_output": "The objective of the document is reducing trade barriers and facilitating trade (TBT)."  
+    },  
+    "case138": {  
+        "input": "What are the main components of the notified draft Technical Regulation for establishments engaged in the manufacture of domestic hygiene products and absorbent personal hygiene products?",  
+        "expected_output": "The notified draft Technical Regulation comprises fourteen paragraphs covering requirements such as personnel, organization, sanitation and hygiene, buildings and facilities, equipment, accessories and tools, maintenance and services, storage and distribution, handling of raw materials and inputs, production, packing and packaging, quality assurance, documentation and records, references, complaints and claims, and grounds for product withdrawal. Additionally, it includes an annex with a guide for conducting inspections."  
+    },  
+    "case139": {  
+        "input": "What is the main objective of The Food (Adoption of Standards) Regulations 2008?",  
+        "expected_output": "The main objective of The Food (Adoption of Standards) Regulations 2008 is food safety."  
+    },
+    "case140": {  
+        "input": "What are the key changes in the revision of the Mandatory Standard SI 5438 part 6 for sodium hydroxide used in water treatment?",  
+        "expected_output": "The key changes in the revision of the Mandatory Standard SI 5438 part 6 for sodium hydroxide used in water treatment include:  1. The concentration of sodium hydroxide should be as agreed between the manufacturer or supplier and their client and range ±2% from declaration. If a range of concentrations is declared, the difference between minimum and maximum should not exceed 5%, and test results should fall within this range.2. The limitation for sodium carbonate (Na2CO3) is set at a maximum of 1% relative to 100% NaOH. 3. The limitation for mercury (Hg) is set at a maximum of 0.2mg per 1kg NaOH."  
+    },  
+    "case141": {  
+        "input": "What is the objective of the notified draft Normative Instruction mentioned in the document?",  
+        "expected_output": "The objective of the notified draft Normative Instruction is food safety (SPS)."  
+    },  
+    "case142": {  
+        "input": "What is the purpose of Ukraine's draft order on food contact plastics announced on October 2, 2023?",  
+        "expected_output": "The purpose of Ukraine's draft order announced on October 2, 2023, is to approve a set of 'special requirements' for plastic materials and articles intended to come into contact with food. This is achieved by implementing Regulation (EU) 10/2011 from the European Union, consolidated to August 2023. The provisions will become effective on November 19, 2025, if approved."  
+    },  
+    "case143": {  
+        "input": "What is the primary focus of the H.R. 6105 'No Toxics in Food Packaging Act of 2023' introduced by the U.S. Congress?",  
+        "expected_output": "The primary focus of the H.R. 6105 'No Toxics in Food Packaging Act of 2023' is to prohibit five substances/classes of substances that are deemed unsafe for use as food contact substances. This includes a class of esters of ortho-phthalic acid and perfluoroalkyl or polyfluoroalkyl substances that are man-made with at least one fully fluorinated carbon atom."  
+    },  
+    "case144": {  
+        "input": "What is the purpose of the consultation initiated by New Zealand's EPA regarding lead requirements for paints and graphic materials?",  
+        "expected_output": "The purpose of the consultation initiated by New Zealand's EPA is to amend several group standards to reduce the risks from lead in corrosion inhibitors and graphic materials such as crayons, finger paints, and felt-tip pens used by children."  
+    },  
+    "case145": {  
+        "input": "What is the timeline for compliance with the new Indonesian regulation on food contact materials if it is approved?",  
+        "expected_output": "If approved, the draft regulation will enter into force on the date of promulgation, and food contact materials and articles are obliged to comply with the provisions in the new law no later than 12 months after the draft regulation is promulgated."  
+    },  
+    "case146": {  
+        "input": "What are the key requirements specified in Ukraine's new legislation for the declaration of conformity (DoC) for food contact materials and articles?",  
+        "expected_output": "Ukraine's new legislation, effective from November 19, 2025, specifies that a written declaration of conformity (DoC) is required for 18 types of food contact materials (FCM), including combinations and recycled materials. Ceramic articles must be accompanied by a DoC at all stages of circulation, including retail. Varnishes and coatings made with bisphenol A (BPA) require a DoC at all stages of production and circulation, except at the point of sale to end users. Compliance must be demonstrated through test reports and documentation when requested by authorities."  
+    },  
+    "case147": {  
+        "input": "What are the key dates and compliance requirements for food contact materials (FCM) and articles under the revised Swiss Ordinance on Materials and Articles Intended to Come into Contact with Foodstuffs?",  
+        "expected_output": "The revised Swiss Ordinance on Materials and Articles Intended to Come into Contact with Foodstuffs will become effective on February 1, 2024. Compliant FCM and articles that do not meet Articles 35a (Declaration of Compliance), 35b (documentation), and Annex 15 (packaging inks) before this date may be manufactured, imported, labeled, and sold until January 31, 2026. FCM and articles that do not comply with other provisions in the amendment may be manufactured, imported, and labeled according to the old law until January 31, 2025, and sold until stocks are exhausted."  
+    },  
+    "case148": {  
+        "input": "What recent update has the UK Department for Business and Trade made regarding toy safety standards?",  
+        "expected_output": "The UK Department for Business and Trade (DBT) has issued Notice of Publication 0093/23 to revise the list of designated toy safety standards for demonstrating compliance with Toys (Safety) Regulations 2011 (S.I. 2011/1811) in relation to Great Britain. This update, which became effective on November 22, 2023, amends the toy electrical standard EN 62115 and fully aligns the list of designated standards for Great Britain with EU harmonized toy standards."  
+    },  
+    "case149": {  
+        "input": "What are the new registration requirements for mattress-related businesses in Washington, DC?",  
+        "expected_output": "All entities involved in the manufacturing, renovating, and/or sale of bedding, mattresses, or other upholstered furniture must register with the Division of Community Hygiene under DC Health. This includes obtaining a license and labeling relevant products using the standardized Uniform Label format. Registration must be renewed every two years. Fees vary from USD 476 for manufacturers to USD 34 for retailers, with potential future fees for importers and distributors."  
+    },  
+    "case150": {  
+        "input": "What are the key exemptions mentioned in Denmark's new regulation on PFAS in firefighting foams?",  
+        "expected_output": "The key exemptions in Denmark's new regulation on PFAS in firefighting foams include PFAS regulated under Regulation (EC) 1907/2006 (REACH) and Regulation (EU) 2019/1021 on persistent organic pollutants (POP Recast). Additionally, the regulation exempts firefighting foam (FFF) concentrates for use in fixed firefighting systems at fire training grounds and offshore installations. Non-compliant stocks of FFF concentrate can be used at a training ground until July 1, 2024."  
+    },  
+    "case151": {  
+        "input": "What are PFAS and why are they being regulated in the US?",  
+        "expected_output": "Per- and polyfluoroalkyl substances (PFAS) are a diverse group of synthetic chemicals used in various consumer goods for their ability to repel water, grease, oil, and dirt. They have been increasingly regulated in the US due to their toxic effects and negative environmental impacts. Several states have introduced bills to restrict or prohibit PFAS in a range of products since the beginning of 2024."  
+    },  
+    "case152": {  
+        "input": "What is the purpose of the EU's consultation on BPA and other bisphenols in food contact materials?",  
+        "expected_output": "The EU's consultation aims to gather comments on a draft regulation that seeks to strengthen the prohibition and restriction of Bisphenol A (BPA) and other bisphenols in food contact materials and articles. The consultation is open until March 8, 2024, and includes provisions for derogations and transitional periods for businesses. If approved, the new law will be implemented in phases following its publication in the Official Journal of the European Union (OJEU)."  
+    },  
+    "case153": {  
+        "input": "When will the final rule establishing labeling requirements for button cell or coin battery packages under Reese's Law be effective?",  
+        "expected_output": "The final rule (16 CFR 1263.4) establishing labeling requirements for button cell or coin battery packages will be effective from September 21, 2024."  
+    },  
+    "case154": {  
+        "input": "What recent regulation has the European Union (EU) published regarding microplastics, and what are its key implementation details?",  
+        "expected_output": "In September 2023, the European Union (EU) published Commission Regulation (EU) 2023/2055 to restrict synthetic polymer microparticles ('microplastics') as substances on their own or intentionally added to mixtures. The new law is being implemented in phases, starting October 17, 2023. The European Commission (EC) has also announced the latest current thinking on certain points associated with the application of the microplastics restriction, including plastic glitter on its own and in products. A detailed Q&A document is expected to be issued to assist stakeholders with the implementation of the regulation."  
+    },  
+    "case155": {  
+        "input": "What are the new standards for determining hazardous substances in electrical and electronic products under China RoHS as of January 25, 2024?",  
+        "expected_output": "The new standards for determining hazardous substances in electrical and electronic products under China RoHS as of January 25, 2024, are a series of standards collectively referred to as the GB/T 39560 series. These include GB/T 39560.1, GB/T 39560.2, GB/T 39560.301, GB/T 39560.4, GB/T 39560.5, GB/T 39560.6, GB/T 39560.701, and GB/T 39560.702."  
+    },  
+    "case156": {  
+        "input": "What recent regulatory change did the state of Utah implement regarding online sales of bedding, upholstered furniture, and quilted clothing?",  
+        "expected_output": "Effective February 2, 2024, the state of Utah issued an emergency rule to repeal the requirement for displaying a uniform law label for bedding, upholstered furniture, and quilted clothing online. This rule was temporarily suspended to conduct an assessment and make necessary adjustments. However, the regulations for quilted clothing textile labels remain unchanged during this period."  
+    },  
+    "case157": {  
+        "input": "What does California's proposed SB 1266 aim to prohibit in children's products?",  
+        "expected_output": "California's proposed SB 1266 aims to prohibit children's products that contain bisphenol, perfluoroalkyl, or polyfluoroalkyl substances unless these substances are classified as temporarily essential chemicals."  
+    },  
+    "case158": {  
+        "input": "What is the purpose of the guideline issued by Japan's Ministry of Economy, Trade and Industry (METI) on March 7, 2024?",  
+        "expected_output": "The guideline issued by Japan's Ministry of Economy, Trade and Industry (METI) on March 7, 2024, aims to assist stakeholders with import clearance procedures for chemical substances related to Japan’s Act on the Regulation of Manufacture and Evaluation of Chemical Substances (CSCL). It includes details such as the list of products, with corresponding HS codes, that are prohibited from being imported if they contain designated class I specified chemical substances."  
+    },  
+    "case159": {  
+        "input": "What is the significance of Washington state's HB 1551 signed into law on March 28, 2024?",  
+        "expected_output": "Washington state became the first in the US to restrict lead in cookware with the enactment of HB 1551. The law, effective January 1, 2026, introduces a new chapter to Title 70A RCW and allows for the potential lowering of the 5 ppm lead limit by rule after December 2034 if feasible."  
+    },  
+    "case160": {  
+        "input": "When will Ukraine's new requirements for food contact plastics become effective?",  
+        "expected_output": "Ukraine's new requirements for food contact plastics will become effective on November 19, 2025."  
+    },  
+    "case161": {  
+        "input": "What is the purpose of Brazil's two-month consultation initiated in March 2024?",  
+        "expected_output": "The purpose of Brazil's two-month consultation initiated in March 2024 is to gather comments on two proposals issued by Brazil’s National Health Agency (Anvisa) to regulate food contact silicone materials and articles. Comments are being accepted until May 5, 2024."  
+    },  
+    "case162": {  
+        "input": "What is the deadline for Mercosur member countries to incorporate the revised regulations on food contact metals and alloys into their national law?",  
+        "expected_output": "The deadline for Mercosur member countries (Argentina, Brazil, Paraguay, and Uruguay) to incorporate the revised regulations into their national law is before June 2, 2024."  
+    },  
+    "case163": {  
+        "input": "What is the purpose of South Korea's proposed revision to its standards and specifications for food contact materials and articles?",  
+        "expected_output": "The purpose of South Korea's proposed revision to its standards and specifications for food contact materials and articles is to improve and supplement some of the deficiencies in the existing standards, ensuring that these products do not contain toxic or harmful chemicals that could endanger human health."  
+    },
+    "case164": {  
+        "input": "What is the distribution date for the draft resolution regarding non-mandatory Colombian technical standards?",  
+        "expected_output": "The distribution date for the draft resolution is 2001-04-26."  
+    },  
+    "case165": {  
+        "input": "What is the purpose of the proposed Thai Industrial Standards Institute (TISI) standard TIS 880-2547(2004)?",  
+        "expected_output": "The proposed TIS 880-2547(2004) standard aims to withdraw the mandatory standard TIS 880-2532 (1989) and replace it with a new standard that covers only clear float glass. It classifies float glass into two grades, specifies sizes and tolerances, prescribes permissible defects, and includes packaging, marking and labelling, sampling and criteria for conformity, and testing."  
+    },  
+    "case166": {  
+        "input": "What are the objectives of the National Standard of the P.R.C. for Heat Soaked Thermally Tempered Glass?",  
+        "expected_output": "The objectives of the National Standard of the P.R.C. for Heat Soaked Thermally Tempered Glass are the protection of human health or safety and other unspecified TBT-related objectives."  
+    },  
+    "case167": {  
+        "input": "What is the final date for comments on the National Standard of the P.R.C., Flat Glass?",  
+        "expected_output": "2009-02-20"  
+    },  
+    "case168": {  
+        "input": "What are the mandatory contents specified in the National Standard of the P.R.C. for Laminated Solar PV Glazing Materials in Building?",  
+        "expected_output": "The mandatory contents are the requirements for ultraviolet (UV) irradiation resistant performances, heat resistances, moisture resistances, falling ball impact peeling performance, and shot bag impact performance of laminated solar photovoltaic glass in building."  
+    },  
+    "case169": {  
+        "input": "What is the scope of the Draft Philippine National Standard (DPNS) 2100:2013 for insulating glass unit performance and evaluation?",  
+        "expected_output": "The Draft Philippine National Standard (DPNS) 2100:2013 covers preassembled permanently sealed insulating glass units with one or two airspaces, as well as units with capillary tubes intentionally left open. It is applicable to sealed insulating glass units constructed with glass, including both double-glazed and triple-glazed units, where the outer lites are glass and the inner lite can be either glass or a suspended film. The standard sets qualifications based on frost/dew point, absence of fog after specified test durations, and for argon gas filled units, maintaining specified argon gas amounts before and after testing. It provides a basis for evaluating the durability of sealed insulating glass units but does not apply to units containing spandrel glass coating or cover other physical requirements such as appearance, thermophysical properties, heat and light transmission, and glass displacement."  
+    },  
+    "case170": {  
+        "input": "What is the final date for public comments on the proposed compulsory specification for safety glass and other safety glazing materials - VC 9003?",  
+        "expected_output": "The final date for public comments on the proposed compulsory specification for safety glass and other safety glazing materials - VC 9003 is 2013-11-09."  
+    },  
+    "case171": {  
+        "input": "What is the primary objective of the amendments made to the Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB) Act 2011?",  
+        "expected_output": "The primary objective of the amendments made to the CIDB Act 2011 is to regulate the conformance of standards for construction workmanship and materials, ensuring quality requirements through the introduction of standards and code of practice."  
+    },  
+    "case172": {  
+        "input": "What is the purpose of the Draft Decree of Minister of Industry on Mandatory Implementation of Indonesian National Standard for Glass in Building – Glass Blocks?",  
+        "expected_output": "The purpose of the Draft Decree is to ensure that all glass products used in building construction produced within Indonesia or imported, distributed, and marketed in the country comply with the Indonesian National Standard (SNI) requirements. This compliance is proven by having a Product Certificate for Using SNI Mark, which aims to protect human health or safety and to meet quality requirements."  
+    },  
+    "case173": {  
+        "input": "What is the purpose of declaring the existing Mandatory Standard, SI 938 part 1, voluntary?",  
+        "expected_output": "The purpose of declaring the existing Mandatory Standard, SI 938 part 1, voluntary is to reduce trade barriers and facilitate trade."  
+    }  
+}
